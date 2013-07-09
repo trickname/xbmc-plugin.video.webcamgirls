@@ -1,4 +1,4 @@
-xbmc-plugin.video.webcamgirls
-=============================
+plugin.video.webcamgirls
+========================
 
-XBMC-Addon um leicht bekleidete Damen vor der Webcam zu sehen.
+XBMC-AddOn für den Zugriff auf kostenlose Streams eines bekannten Webcam-Anbieters.

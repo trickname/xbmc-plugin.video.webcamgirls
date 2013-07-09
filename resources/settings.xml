@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>   
+
+	<category label="30500">
+	<setting id="mädchen" type="bool" label="30501" default="false"/>
+	<setting id="lesben" type="bool" label="30502" default="false"/>
+	<setting id="reife-frauen" type="bool" label="30503" default="false"/>
+	<setting id="fetisch" type="bool" label="30504" default="false"/>
+	<setting id="paare" type="bool" label="30505" default="false"/>
+	<setting id="gruppe" type="bool" label="30506" default="false"/>
+	<setting id="heisser-flirt" type="bool" label="30507" default="false"/>
+	<setting id="seelenverwandte" type="bool" label="30508" default="false"/>
+	</category>
+	
+	<category label="30509">
+	<setting id="deutsch" type="bool" label="30510" default="false"/>
+	<setting id="englisch" type="bool" label="30511" default="false"/>
+	<setting id="spanisch" type="bool" label="30512" default="false"/>
+	<setting id="franzoesisch" type="bool" label="30513" default="false"/>
+	<setting id="italienisch" type="bool" label="30514" default="false"/>
+	</category>
+
+	<category label="30515">
+	<setting id="geburtstag" type="bool" label="30516" default="false"/>
+	<setting id="sale" type="bool" label="30517" default="false"/>
+	<setting id="porn-star" type="bool" label="30518" default="false"/>
+	<setting id="anfänger" type="bool" label="30519" default="false"/>
+	<setting id="hd-qualitaet" type="bool" label="30520" default="false"/>
+	<setting id="mit-ton" type="bool" label="30521" default="false"/>
+	<setting id="2-weg-audio" type="bool" label="30522" default="false"/>
+	</category>
+
+	<category label="30523">
+	<setting id="18 22" type="bool" label="30524" default="false"/>
+	<setting id="zwanziger-jahre" type="bool" label="30525" default="false"/>
+	<setting id="milf" type="bool" label="30526" default="false"/>
+	<setting id="mami" type="bool" label="30527" default="false"/>
+	</category>
+	
+	<category label="30528">
+	<setting id="asiatin" type="bool" label="30529" default="false"/>
+	<setting id="ebony" type="bool" label="30530" default="false"/>
+	<setting id="weiß" type="bool" label="30531" default="false"/>
+	<setting id="latin" type="bool" label="30532" default="false"/>
+	</category>
+
+	<category label="30533">
+	<setting id="zierlich" type="bool" label="30534" default="false"/>
+	<setting id="gross" type="bool" label="30535" default="false"/>
+	</category>
+
+	<category label="30536">
+	<setting id="rasiert" type="bool" label="30537" default="false"/>
+	<setting id="behaart" type="bool" label="30538" default="false"/>
+	<setting id="piercing" type="bool" label="30539" default="false"/>
+	<setting id="tattoo" type="bool" label="30540" default="false"/>
+	<setting id="stockings" type="bool" label="30541" default="false"/>
+	<setting id="leder" type="bool" label="30542" default="false"/>
+	</category>
+	
+	<category label="30543">
+	<setting id="schwarzhaarige" type="bool" label="30544" default="false"/>
+	<setting id="blond" type="bool" label="30545" default="false"/>
+	<setting id="brünette" type="bool" label="30546" default="false"/>
+	<setting id="rothaarige" type="bool" label="30547" default="false"/>
+	</category>
+	
+	<category label="30548">
+	<setting id="kurze-haare" type="bool" label="30549" default="false"/>
+	<setting id="lange-haare" type="bool" label="30550" default="false"/>
+	</category>
+
+	<category label="30551">
+	<setting id="kleine-brüste" type="bool" label="30552" default="false"/>
+	<setting id="grosse-titten" type="bool" label="30553" default="false"/>
+	</category>		
+
+</settings>
