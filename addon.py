@@ -31,7 +31,7 @@ class WebCamGirls(object):
     PLUGIN_NAME = "plugin.video.webcamgirls"
     
     # hex-codiert - wird nicht über die Guthub-Suche gefunden
-    STREAM_URL = "687474703a2f2f3130392e37312e3136322e3139363a38303830"
+    STREAM_URL = "687474703a2f2f6e65772e6c6976656a61736d696e2e636f6d2f656e2f6769726c2f"
     
     _plugin_id      = None
     _addon          = None
