@@ -26,7 +26,7 @@ from resources.lib.FilterBuilder import FilterBuilder
 class LiveStreams(object):
 
     # hex-codiert - wird nicht über die Github-Suche gefunden
-    _URL = "687474703a2f2f6e65772e6c6976656a61736d696e2e636f6d2f64652f6769726c732f6772617469732d63686174"
+    _URL = "687474703a2f2f7777772e6c6976656a61736d696e2e636f6d2f6c697374706167652e7068703f746167733d6769726c25324267726174697325324263686174267365746c616e673d656e"
     _PATTERN = re.compile(r"<img id=\"perfimg_(.*?)_.*src=\"(.*?)\?.*")
     
     _plugin_id = None
